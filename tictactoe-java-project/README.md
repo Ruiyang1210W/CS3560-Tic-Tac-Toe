@@ -13,8 +13,9 @@ This repository implements the assignment spec with clean encapsulation, polymor
 ## How to run (IntelliJ)
 
 1. Open the project as a Maven project.
-2. Run tests: `BoardTest` and `GameTest` (8+ assertions).
-3. Run `ConsoleApp` for a minimal UI:
+2. Go to open and then open the pom.xml file.
+3. Run tests: `BoardTest` and `GameTest` (8+ assertions).
+4. Run `ConsoleApp` for a minimal UI:
    - Pick board size `N` and `K` (win length)
    - Choose X and O players from: Human, Random AI, Smart AI, Minimax AI.
 
